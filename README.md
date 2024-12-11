@@ -20,7 +20,7 @@
 
 <h2>My Working Note</h2>
 
-- [Linux Notes](https://github.com/mmaorko/DevOps).
+- [Linux Notes](https://github.com/mmaorko/DevOps)
 - [DevOps Notes](https://github.com/mmaorko/linux/)
 - [How to Create a KeyLogger (C#)](https://www.medium.com/mmaorko)
 - [Ransomware Demonstration (C#)](https://www.medium.com/mmaorko)
