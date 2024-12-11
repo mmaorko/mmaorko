@@ -20,8 +20,8 @@
 
 <h2>My Working Note</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.medium.com/mmaorko)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.medium.com/mmaorko)
+- [Linux Notes](https://github.com/mmaorko/DevOps).
+- [DevOps Notes](https://github.com/mmaorko/linux/)
 - [How to Create a KeyLogger (C#)](https://www.medium.com/mmaorko)
 - [Ransomware Demonstration (C#)](https://www.medium.com/mmaorko)
 - [Is WGU Legit?](https://www.medium.com/mmaorko)
